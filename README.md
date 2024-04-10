@@ -42,7 +42,7 @@ Represent the distribution of customers based on the number of orders they have 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-
+---
 # Build the Datasource
 - connect data
 - create data model
