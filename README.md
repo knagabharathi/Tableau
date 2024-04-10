@@ -41,3 +41,22 @@ Represent the distribution of customers based on the number of orders they have 
  – Make the charts and graphs interactive, enabling users to filter data using the charts.
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+
+# Build the Datasource
+- connect data
+- create data model
+- Rename feilds/tables
+- check the data types
+- Understand the data
+
+# Building charts 
+- create calculated feilds & test
+- Build chart
+- Format
+-  Remove grid lines
+-  cleanup axis and headers
+-  coloring
+-  Tooltip
+
+
