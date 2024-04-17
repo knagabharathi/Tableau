@@ -9,7 +9,7 @@
  – Provide users with the ability to navigate between the dashboards easily.
  – Make the charts and graphs interactive, enabling users to filter data using the charts.
 ### Data Filters
-Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+- Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 ---
 # Build the Datasource
 - connect data
