@@ -1,4 +1,6 @@
 ## Design & Interactivity Requirements
+## Intorduction
+- This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
 ### Dashboard Dynamic
 - The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year
 - Provide users with the ability to navigate between the dashboards easily.
